@@ -1,0 +1,16 @@
+{
+  "name": "lesson13-selenium-google-intro",
+  "version": "1.0.0",
+  "description": "using selenium to go to google and search for somthing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "selenium-webdriver": "^4.9.0"
+  }
+}
